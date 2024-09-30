@@ -1,5 +1,7 @@
 # PythonWebScraper
-This is a python web scraper that collects match data from FIRST Robotics Competition events and saves it in a file.
+This is a python web scraper that collects match data from FIRST Robotics Competition events and saves it in a json file.
+
+An example has been scraped for the 2024 San Francisco Regional Qualifier [event website](https://frc-events.firstinspires.org/2024/CASF/qualifications) and the results can be found in the json folder.
 
 ## Installation Instructions
 
